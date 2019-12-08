@@ -11,4 +11,4 @@ This repo contains resources regarding this project
 
 4) https://youtu.be/N8ljUeGhmrw (Electric kit Installation in Bicycle)
 
-## Research Papers
+
