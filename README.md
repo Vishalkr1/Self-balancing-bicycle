@@ -1,4 +1,4 @@
-# Self-balancing-bicycle
+# Self-Balancing-Bicycle
 This repo contains resources regarding this project
 
 ## YouTube Links
@@ -10,3 +10,5 @@ This repo contains resources regarding this project
 3) https://youtu.be/SUVtObDFFWY (Balancing motorcycle, a small test model)
 
 4) https://youtu.be/N8ljUeGhmrw (Electric kit Installation in Bicycle)
+
+## Research Papers
