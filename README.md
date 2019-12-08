@@ -1,7 +1,7 @@
 # Self-balancing-bicycle
 This repo contains resources regarding this project
 
-##YouTube Links
+## YouTube Links
 
 1) https://youtu.be/4UHLRmYNDMQ (PROJECT DONE BY WARUT PHOTIPHAN OF MAHANAKORN UNIVERSITY OF TECHNOLOGY)
 
